@@ -1,3 +1,11 @@
-html {
-    background-color: red;
+
+.lesson { background-color: lemon;
+    background-color: rgba(8, 233, 98, 0.83);
 }
+.title {color: darkblue;}
+
+#email {background-color: goldenrod;}
+
+#github {background-color: lightsteelblue;}
+
+#portfolio {background-color: darkorange;}
